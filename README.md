@@ -5,9 +5,7 @@
 ---
 
 ### Objetivos do desafio
-- Escolher biblioteca de UI para React:
-  - MUI (Material-UI)
-  - CoreUI
+A biblioteca escolhida para este desafio foi:
   - Shadcn ui
 
 - Fazer previsão de tempo para desenvolvimento
@@ -57,4 +55,36 @@
 
 ---
 
+### Estimativa de Tempo
+
+| Tarefa                              | Tempo Estimado (horas) | Comentários                                        |
+|-----------------------------------|-----------------------|---------------------------------------------------|
+| Pesquisa e escolha da biblioteca   | 1                     | Avaliar Shadcn ui e decidir uso                   |
+| Setup do projeto React             | 1                     | Criação do projeto, instalação dependências       |
+| Implementar mocks das APIs         | 2                     | Configuração com axios-mock-adapter                |
+| Implementar dropdowns dependentes  | 6                     | Dropdowns pesquisáveis e dependentes               |
+| Campos de texto e numéricos        | 3                     | Inputs com validação e limitação                   |
+| Implementar botão "Verify"         | 2                     | Construção do código conforme formato              |
+| Implementar botão "Gravar"         | 3                     | Preparar JSON e log de dados                        |
+| Estilização com Shadcn ui          | 3                     | Aplicar estilos e responsividade                    |
+| Testes e ajustes finais            | 4                     | Testar funcionalidades, corrigir bugs              |
+| Documentação                       | 2                     | Criar README, comentários no código                 |
+
+**Total estimado:** 27 horas (~3.5 dias úteis)
+
+---
+
+### Plano para 5 dias
+
+| Dia  | Objetivos principais                              |
+|-------|-------------------------------------------------|
+| 1     | Setup, pesquisa biblioteca, mocks APIs           |
+| 2     | Implementar dropdowns dependentes e inputs       |
+| 3     | Botões Verify e Gravar + lógica                    |
+| 4     | Estilização UI e testes iniciais                   |
+| 5     | Testes finais, ajustes, documentação               |
+
+---
+
+Este plano permite uma margem para eventuais dificuldades e melhorias incrementais.
 
