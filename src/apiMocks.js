@@ -1,4 +1,4 @@
-// src/apiMocks.js
+
 
 export function fetchMenu() {
   return Promise.resolve({
