@@ -1,5 +1,5 @@
 # Desafio-WipCentre
-![WipCentre](files/Users/jzhang/Desktop/Isolated.png)
+![WipCentre]([files/Users/jzhang/Desktop/Isolated.png](https://github.com/Goncalo04Costa/Desafio-WipCentre/blob/main/wipcentre.webp))
 
 ## Estimativa de Tempo e Planeamento do Desafio React "Create Articles"
 
