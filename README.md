@@ -1,5 +1,5 @@
 # Desafio-WipCentre
-![WipCentre]([https://github.com/Goncalo04Costa/Desafio-WipCentre/blob/main/wipcentre.webp])
+![WipCentre]([https://github.com/Goncalo04Costa/Desafio-WipCentre/blob/main/web_innovation_pt_logo.png])
 
 
 ## Estimativa de Tempo e Planeamento do Desafio React "Create Articles"
