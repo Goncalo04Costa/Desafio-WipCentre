@@ -1,4 +1,5 @@
 # Desafio-WipCentre
+![WipCentre](files/Users/jzhang/Desktop/Isolated.png)
 
 ## Estimativa de Tempo e Planeamento do Desafio React "Create Articles"
 
